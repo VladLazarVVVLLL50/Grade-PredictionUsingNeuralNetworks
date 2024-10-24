@@ -1,1 +1,1 @@
-# Grade-PredictionUsingNeuralNetworks
+# Grade Prediction Using Neural Networks
